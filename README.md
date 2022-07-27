@@ -22,4 +22,4 @@ Directories 	Description
 0x13-firewall 	Introduction to firewalls and setting up of a firewall on our own servers
 0x14-mysql 	Introduction to Database clusters and setting up a Primary-Replica MySQL cluster on our own servers
 0x15-api 	Querying an API and exporting data to JSON or CSV format
-0x16-api_advanced
+0x16-api_advancd
